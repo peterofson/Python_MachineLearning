@@ -1,4 +1,4 @@
-### In coding Ridge Regression you will be asked to:
+### Ridge Regression:
 
 Mean center target variable and mean center / standardize observation
 Calculate Ridge Regression weights using linear algebra
