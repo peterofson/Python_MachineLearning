@@ -1,3 +1,3 @@
 # Python_MachineLearning
-Applied Machine Learning
+Supervised Machine Learning using Linear, Logistic, Ridge, and Bayesian Regression 
 
