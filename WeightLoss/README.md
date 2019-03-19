@@ -1,5 +1,5 @@
-##Contrived data on weight loss and self esteem over three months, for three groups of individuals: 
-###Control, Diet and Diet + Exercise. The data constitute a double-multivariate design.
+#Contrived data on weight loss and self esteem over three months, for three groups of individuals: 
+#Control, Diet and Diet + Exercise. The data constitute a double-multivariate design.
 
 #Usage
 #WeightLoss
