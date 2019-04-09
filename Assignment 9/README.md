@@ -16,5 +16,5 @@ Motivation: Recommender systems provide non-parametric comparisons between items
 
 ## Objectives:
 
-Understand mathematical foundations of recommender systems.
-Translation of mathematical algorithm into code.
+- Understand mathematical foundations of recommender systems.
+- Translation of mathematical algorithm into code.
