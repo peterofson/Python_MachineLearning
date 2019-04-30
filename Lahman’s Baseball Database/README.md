@@ -1,1 +1,21 @@
 ## 2017 Lahman’s Baseball Database
+  AllStarFull - All-Star appearances
+  HallofFame - Hall of Fame voting data
+  Managers - managerial statistics
+  Teams - yearly stats and standings 
+  BattingPost - post-season batting statistics
+  PitchingPost - post-season pitching statistics
+  TeamFranchises - franchise information
+  FieldingOF - outfield position data  
+  FieldingPost- post-season fieldinf data
+  ManagersHalf - split season data for managers
+  TeamsHalf - split season data for teams
+  Salaries - player salary data
+  SeriesPost - post-season series information
+  AwardsManagers - awards won by managers 
+  AwardsPlayers - awards won by players
+  AwardsShareManagers - award voting for manager awards
+  AwardsSharePlayers - award voting for player awards
+  Appearances - details on the positions a player appeared at
+  Schools - list of colleges that players attended
+  CollegePlaying - list of players and the colleges they attended
